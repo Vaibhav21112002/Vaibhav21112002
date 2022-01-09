@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav21112002&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav21112002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav21112002" alt="vaibhav21112002" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/vaibhav21409562" target="blank"><img src="https://img.shields.io/twitter/follow/vaibhav21409562?logo=twitter&style=for-the-badge" alt="vaibhav21409562" /></a> </p>
 
 - 🌱 I’m currently learning **Everything**
@@ -18,6 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vaibhav21409562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhav21409562" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vaibhav_432" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhav_432" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vaibhavg_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vaibhavg_21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
